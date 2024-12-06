@@ -1,1 +1,7 @@
-`
+NEXT_PUBLIC_BACKEND_URL="http://localhost:8000/"
+
+GITHUB_ID=Ov23ligpAWxq5Gw968uI
+GITHUB_SECRET=12d6c8d57d1e5362fef3a841ff3ecc9b6d7c5f4f
+
+NEXTAUTH_URL="http://localhost:3000"
+NO_SECRET=none
